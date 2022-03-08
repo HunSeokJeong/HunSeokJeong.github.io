@@ -1,5 +1,5 @@
 # Site settings
-title: 초심자의 블로그
+title: 훈석의 블로그
 description: 'Business Card Page'
 url: 'http://thomas.zuehlke.family'
 baseurl: ''
@@ -9,13 +9,10 @@ google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
-#  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  name: '정훈석'
+  email: gnstjr2000@gmail.com
+  github_username:  HunSeokJeong
+
 
 # Build settings
 destination: _site
